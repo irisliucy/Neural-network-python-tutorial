@@ -1,0 +1,3 @@
+# ignore all file dependencies
+*/.DS_Store
+*/.ipynb_checkpoints/**
